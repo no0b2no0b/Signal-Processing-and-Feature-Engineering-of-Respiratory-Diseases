@@ -1,4 +1,4 @@
-# Signal_Processing_and_Feature_Engineering_of_Respiratory_Disease
+# Signal Processing and Feature Engineering of Respiratory Disease
 
 ## Introduction
 This project focuses on the classification of respiratory diseases using signal processing and feature engineering techniques. It leverages data augmentation, SMOTE (Synthetic Minority Over-sampling Technique), a Convolutional Neural Network (CNN) algorithm, and Mel-frequency cepstral coefficients (MFCC) features for improved disease detection. The goal is to perform binary classification for each respiratory disease and multi-classification.
